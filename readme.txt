@@ -7,3 +7,6 @@ myboss
 creating a new branch is quick
 
 creater 啊 new branch is quick& simple
+
+
+修改no-ff
