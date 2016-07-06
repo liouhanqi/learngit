@@ -11,4 +11,5 @@ creater 啊 new branch is quick& simple
 
 修改no-ff   修复bug
 
-添加dev
+添加deva
+添加deva2
